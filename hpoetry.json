@@ -1,0 +1,8 @@
+{
+	"path": "$HPOETRY",
+    "env": [
+        {
+            "HOUDRONE": "$HOUDINI_PACKAGE_PATH/hpoetry"
+        }
+    ]
+}
