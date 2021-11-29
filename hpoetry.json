@@ -2,7 +2,7 @@
 	"path": "$HPOETRY",
     "env": [
         {
-            "HOUDRONE": "$HOUDINI_PACKAGE_PATH/hpoetry"
+            "HPOETRY": "$HOUDINI_PACKAGE_PATH/hpoetry"
         }
     ]
 }
